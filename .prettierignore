@@ -1,0 +1,7 @@
+node_modules
+artifacts
+cache
+coveratge*
+package.json
+img
+.env
